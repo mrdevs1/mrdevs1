@@ -22,13 +22,15 @@ Skills: HTML / CSS / JS / PHP/ C++
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrdevs1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevs1)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevs1&size_weight=0.5&count_weight=0.5)
 
-// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdevs1&show_icons=true&count_private=true)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevs1)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdevs1&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mrdevs1/contributions?format=svg&private=true)  
+<!-- ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mrdevs1/contributions?format=svg&private=true)  -->
+
+
 
 ![GitHub metrics](https://metrics.lecoq.io/mrdevs1)  
 
