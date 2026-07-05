@@ -27,6 +27,8 @@ I am a Wordpress Developer and Security Expert. Beside that I am a holistic Whit
 
 https://github-profile-trophy.vercel.app/?username=mrdevs1&theme=onedark
 
+https://github-profile-trophy-mrdevs1.vercel.app/
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevs1)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdevs1&show_icons=true&count_private=true)  
