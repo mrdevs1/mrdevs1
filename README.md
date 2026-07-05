@@ -18,7 +18,6 @@ I am a Wordpress Developer and Security Expert. Beside that I am a holistic Whit
 ✅ Figma / Photoshop <br>
 ✅ Search Engine Optimization <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevs1&size_weight=0.5&count_weight=0.5)
 
 ![Shion1305's language stat](https://github-readme-stats.shion.dev/api/top-langs/?username=mrdevs1&hide=jupyter%20notebook&layout=compact&langs_count=20)
 
