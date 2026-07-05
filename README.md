@@ -25,9 +25,9 @@ I am a Wordpress Developer and Security Expert. Beside that I am a holistic Whit
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-https://github-profile-trophy.vercel.app/?username=mrdevs1&theme=onedark
+[![trophy](https://github-profile-trophy-green-xi.vercel.app/?username=mrdevs1)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy-mrdevs1.vercel.app/
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevs1)](https://github.com/anuraghazra/github-readme-stats) -->
 
